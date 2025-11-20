@@ -332,3 +332,17 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.11/site-packages/django/http/request.py", line 151, in get_host
     raise DisallowedHost(msg)
 django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+2025-11-20 21:41:43,978 INFO api.views API Informe: Generado exitosamente para 2 técnicos
+2025-11-20 21:41:44,019 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:41:44,036 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:41:44,044 INFO api.views API Técnicos: Respuesta exitosa con 2 elementos
+2025-11-20 21:41:44,057 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:41:44,073 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:41:44,078 INFO api.views API Técnicos: Respuesta exitosa con 1 elementos
+2025-11-20 21:48:44,873 INFO api.views API Informe: Generado exitosamente para 2 técnicos
+2025-11-20 21:48:45,022 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:48:45,038 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:48:45,039 INFO api.views API Técnicos: Respuesta exitosa con 2 elementos
+2025-11-20 21:48:45,053 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:48:45,065 INFO api.views API Técnicos: Consulta ejecutada con 2 resultados
+2025-11-20 21:48:45,067 INFO api.views API Técnicos: Respuesta exitosa con 1 elementos
