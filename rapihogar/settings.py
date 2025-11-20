@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-6+(k0auu+8_b&@)s)5hujfrj0bp@lf-5a+#eh_qs#h*a$gqz&o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["0.0.0.0", "localhost"]
+ALLOWED_HOSTS = ["0.0.0.0", "localhost" , "127.0.0.1"]
 
 AUTH_USER_MODEL = 'rapihogar.User'
 # Application definition
